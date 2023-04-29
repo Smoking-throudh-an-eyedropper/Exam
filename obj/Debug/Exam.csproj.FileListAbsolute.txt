@@ -1,0 +1,11 @@
+D:\Visual Studio 2022\Works\exam\Exam\bin\Debug\Exam.exe.config
+D:\Visual Studio 2022\Works\exam\Exam\bin\Debug\Exam.exe
+D:\Visual Studio 2022\Works\exam\Exam\bin\Debug\Exam.pdb
+D:\Visual Studio 2022\Works\exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Works\exam\Exam\obj\Debug\Exam.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2022\Works\exam\Exam\obj\Debug\Exam.Form1.resources
+D:\Visual Studio 2022\Works\exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+D:\Visual Studio 2022\Works\exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+D:\Visual Studio 2022\Works\exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Works\exam\Exam\obj\Debug\Exam.exe
+D:\Visual Studio 2022\Works\exam\Exam\obj\Debug\Exam.pdb
